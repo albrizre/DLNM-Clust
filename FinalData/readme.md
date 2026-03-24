@@ -1,0 +1,1 @@
+Run the codes provided in the repository https://github.com/Rutten-Sara/Bayesian-DLNM-Air-pollution-and-COVID-19-in-Belgium to obtain the data_prep and basis_bc objects required to conduct the case study presented in the paper.
