@@ -9,6 +9,16 @@ The following main codes are included:
 - 2 DLNM-Clust spatial assignment.R: Allows fitting the DLNM-Clust model proposed in the paper with spatial cluster assignment.
 - 3 Model comparison.R: Allows performing model comparison, including the computation of area-level entropy values to assess the uncertainty in cluster assignment.
 
-`dlnm` package
+The NIMBLE codes corresponding to the models under comparison are provided in the folder *NIMBLE codes*: 
+
+- dlnm_Belgium_paper.R (DLNM standard DLNM with spatial random effects).
+- dlnm_basic_NB_cluster.R (DLNM-Clust with non-spatial cluster assignment).   
+- dlnm_basic_NB_cluster_sp.R (DLNM-Clust with spatial cluster assignment).
+
+Folder *FinalData* should contain the datasets provided in the repository https://github.com/Rutten-Sara/Bayesian-DLNM-Air-pollution-and-COVID-19-in-Belgium. See the readme.md file in this folder.
+
+Folder *Functions* contains some auxiliary functions.
+
+
 
 
