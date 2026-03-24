@@ -15,7 +15,7 @@ The NIMBLE codes corresponding to the models under comparison are provided in th
 - dlnm_basic_NB_cluster.R (DLNM-Clust with non-spatial cluster assignment).   
 - dlnm_basic_NB_cluster_sp.R (DLNM-Clust with spatial cluster assignment).
 
-Folder *FinalData* should contain the datasets provided in the repository https://github.com/Rutten-Sara/Bayesian-DLNM-Air-pollution-and-COVID-19-in-Belgium. See the readme.md file in this folder.
+Folder *FinalData* should contain the datasets provided in the repository https://github.com/Rutten-Sara/Bayesian-DLNM-Air-pollution-and-COVID-19-in-Belgium. See the readme.md file in the *FinalData* folder.
 
 Folder *Functions* contains some auxiliary functions.
 
